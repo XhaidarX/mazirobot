@@ -1,1 +1,1 @@
-worker: python3 -m Hikari
+worker: python3 -m Mazi
